@@ -6,3 +6,12 @@ Purpose: prove scheduling/orchestration, replayability, and operational ownershi
 - How to clear/replay
 - How you prevent duplicates
 
+Deliverables
+
+- Airflow via Docker working
+- Postgres connection configured
+- Smoke test DAG
+- Real DAG weekly schedule
+- NOAA/USDA/incidents branches
+- Idempotent rebuild behavior
+- Replay historical weeks proof
