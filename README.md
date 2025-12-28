@@ -28,3 +28,10 @@ Deliverables
 - NOAA/USDA/incidents branches
 - Idempotent rebuild behavior
 - Replay historical weeks proof
+
+
+---
+
+**Previous:** See how data is ingested and validated → [Data-ingestion](https://github.com/Datarunt/Tay-Verde-Solutions-Data-Ingestion)
+
+**Next:** See how ML is applied safely with abstention and fallback → [ML-system](https://github.com/Datarunt/Tay-Verde-Solutions-ML-System)
